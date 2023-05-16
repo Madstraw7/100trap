@@ -114,8 +114,7 @@ endrepeat
    1,L,J,G
   18,L
   16,L,D
-   1,L,J,G
-   6,L,J,G
+   7,L,J,G
   10,L
    7,L,D
    4,J
@@ -192,8 +191,7 @@ endrepeat
   10,L,D,X
   18,L,J
   10,U,X
-  11,L
-   6,L
+  17,L
   26,L,X
    4,D
   16,L
@@ -345,8 +343,7 @@ endrepeat
    9,J
    2,L,J
   15,U,Z
-   1,R
-   1,R
+   2,R
    1
    1,R
    3,L,J
@@ -380,8 +377,7 @@ endrepeat
    1,K
    5,U,X
    8,R,J
-  16,R
-   2,R
+  18,R
    7
    1,R,J
   14,L,Z
@@ -391,8 +387,7 @@ endrepeat
    1,J
    6,R,J
   15,R,D,X
-   7,R
-   2,R
+   9,R
    2,R,D,J
    5,R
    3,R,J
@@ -557,8 +552,7 @@ endrepeat
    1,L
   22,R
   15,L,D,X
-   5,D
-   5,D
+  10,D
   15
    5,L
   14,U,X
@@ -600,8 +594,7 @@ endrepeat
   37
   15,L,D,X
    7,L
-  37
-   2
+  39
    8,R,D,X
   10,R,J,G
    9,R
@@ -639,8 +632,7 @@ endrepeat
    7,R,X
    1,R,J,G
   10,R
-  37
-   7
+  44
   13,L,D
    5,L,X
    3,L,J,G
@@ -671,8 +663,7 @@ endrepeat
    5,R,D,X
   18,R
    9,D
-  37
-   5
+  42
   35,L,X
    1,L,J,G
    1,L,K,G
@@ -715,8 +706,7 @@ endrepeat
   40
 
 #lvl_A21
-  73
-   7
+  80
    6,R,J
   11,R,U,G
    1,R,J,G
@@ -946,8 +936,7 @@ endrepeat
    4,R
   11,R,Z
    1,L,J
-   6,L
-   1,L
+   7,L
   11,L,J
    4,L
    5,L,U,Z
@@ -1020,7 +1009,6 @@ endrepeat
 
 #lvl_A26
   73
-***S
    4,L,J
    9,R,J
   11,R,K
@@ -1047,38 +1035,29 @@ endrepeat
 #lvl_A27
    8,L
    6,L,J,G
-   5,L,X
-  11
-   1,L,J
-   3
-  10,L,J
+  16,L,X
+   4,L,J
+  10,L,K
    5,L
    5,L,J
   20,L,Z
-   1,L,J
-   3
-   9,L,J
-   1,K
+   4,L,J
+   9,L,K
    8,R,J
-   5,R,Z
-  28
-   1,R,J
-   3
-   8,R,J
+   1,R
+  33,R,Z
+   4,R,J
+   8,R,K
    2,L,J
    1,L
   10,L,J
-  11,L,K,G
-   5,L,X
-  51
-   1,J
-   3
-   5,U,X
-   8
+  10,L,K,G
+  56,L,X
+   4,J
+  13,U,X
   40
 
 #lvl_A28
-***S
    1
   18,J
    1,L,K,G
@@ -1164,8 +1143,7 @@ endrepeat
   40
 
 #lvl_A32
-  11
-  26
+  37
    5,R,D,X
   16
    1,R,J
@@ -1584,8 +1562,7 @@ endrepeat
 
 #lvl_A47
    5,L
-   6
-  24
+  30
    5,L,X
   32,L,D
    2,L
@@ -1818,8 +1795,7 @@ endrepeat
   17,R,J
    1,R
   19,U,X
-  24,R,J
-   1,R,J
+  25,R,J
    2,R
    1,D,X
   12,R
@@ -1955,8 +1931,7 @@ endrepeat
   13,J
    4,R,J
    3,K
-   6,R,K
-   3,R,K
+   9,R,K
    7,R,Z
    8,R,J
   11,R
@@ -2236,8 +2211,7 @@ endrepeat
   40
 
 #lvl_A71
-  11
-  34
+  45
    5,R,D,X
   13,R,D
    3
@@ -2262,8 +2236,7 @@ endrepeat
    1,L,J
   11,L,D
   14,D
-  15,L,D
-   2,L,D
+  17,L,D
    5,L,X
    7,L
    5,L,X
@@ -2951,7 +2924,7 @@ endrepeat
   10,L
    5,L,J,X
   12,L,J
-   5,L,U,X
- 146,D
+  16,L,U,X
+ 135,D
 
-#7:25.672(26216)
+ChapterTime: 7:25.655(26215)
